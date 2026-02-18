@@ -1,6 +1,6 @@
 # GOHOME
 
-GOHOME is a small DOS Terminate-and-Stay-Resident (TSR) utility.
+GOHOME is a small DOS Terminate-and-Stay-Resident (TSR) utility. Written In TURBO-C
 
 ## Automatic Loading at Boot
 
@@ -10,7 +10,7 @@ Example:
 
 Example: If you place it in autoexec.bat with the correct pathway such as-
  
-   # C:\TC\GOHOME.EXE 
+   # C:\TC\BIN\GOHOME.EXE 
  
     you should see something like this at startup if correctly loaded:
    
